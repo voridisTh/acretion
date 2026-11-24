@@ -13,4 +13,5 @@ A browser game: steer a rogue planet, absorb smaller bodies, avoid larger ones, 
 - PWA: web manifest and service worker (offline after first load)
 
 ## Run
-Open the deployed GitHub Pages URL(https://voridisth.github.io/acretion/). Alternatively, serve the project folder using any static web server.
+Open the deployed GitHub Pages URL: https://voridisth.github.io/acretion/. 
+Alternatively, serve the project folder using any static web server.
